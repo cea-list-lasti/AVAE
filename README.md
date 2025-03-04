@@ -1,7 +1,7 @@
 AVAE: Adversarial Variational Auto Encoder
 ==========================================
 
-A. Plumerault, H. Le Borgne, C. Hudelot (2021) AVAE: Adversarial Variational Auto Encoder, International Conference on Pattern Recognition (ICPR’20), Milan, Italy, 10-15 january 2021
+A. Plumerault, H. Le Borgne, C. Hudelot (2021) [AVAE: Adversarial Variational Auto Encoder](https://hal.science/hal-04314595v1/file/2012.11551.pdf), International Conference on Pattern Recognition (ICPR’20), Milan, Italy, 10-15 january 2021
 
 If you use this code for your research, please site our paper:
 
